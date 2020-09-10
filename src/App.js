@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          기분이 좋아요?
         </a>
       </header>
     </div>
